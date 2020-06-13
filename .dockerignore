@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+logs
+coverage
+.env
+.env.local
+build
